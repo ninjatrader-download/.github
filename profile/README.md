@@ -20,7 +20,7 @@ Widely used by active traders and professionals, NinjaTrader provides **strategy
 ## 📸 Overview
 A quick look at key parts in action:
 
-![ninjatrader-charting-tools](https://github.com/user-attachments/assets/96f98fdc-8edd-48d7-96e0-dbf348711800)
+![ninjatrader-charting-tools](https://github.com/user-attachments/assets/bc4e6c4c-194a-457f-8d34-3dee34aea7fe)
 
 ---
 
